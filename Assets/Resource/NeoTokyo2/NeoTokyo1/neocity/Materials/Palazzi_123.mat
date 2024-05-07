@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Palazzi_123
+  m_Shader: {fileID: 4800000, guid: 1e2388490b4374a4a8ed5e3563c123a4, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _DETAILPROCEDURALMASK_OFF
+  - _PUDDLES_ON
+  - _RAIN_ON
+  - _SNOW_ON
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GlobalNormal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SnowAlbedo:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SnowMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SnowNormal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WaveNormal:
+        m_Texture: {fileID: 2800000, guid: 42447ab0039b0974fb08cc177686d3e7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlphaClip: 0
+    - _AlphaCutoff: 0.5
+    - _AlphaToMask: 0
+    - _Blend: 0
+    - _BlendModePreserveSpecular: 1
+    - _BumpScale: 1
+    - _ClearCoatMask: 0
+    - _ClearCoatSmoothness: 0
+    - _Cull: 2
+    - _CullMode: 0
+    - _CutOff: 0.5
+    - _Cutoff: 0.5
+    - _DetailAlbedoMapScale: 1
+    - _DetailHeight: 0
+    - _DetailHeightBlendStrength: 1
+    - _DetailMaskTiling: 1
+    - _DetailNormalMapScale: 1
+    - _DetailProceduralMask: 0
+    - _DetailProceduralMaskIntensity: 1
+    - _DetailProceduralMaskScale: 20
+    - _DetailThreshold: 1
+    - _DisplacementStrength: 0.05
+    - _DstBlend: 0
+    - _DstBlendAlpha: 0
+    - _EnvironmentReflections: 1
+    - _GlobalNormalIntensity: 1
+    - _GlossMapScale: 1
+    - _Glossiness: 0.14142135
+    - _GlossyReflections: 1
+    - _Metallic: 0
+    - _MetallicBase: 0
+    - _MetallicDetail: 0
+    - _Mode: 0
+    - _OcclusionStrength: 0
+    - _Opacity: 0
+    - _Parallax: 0.02
+    - _PuddleCoverageNoise: 1
+    - _PuddleIntensity: 2
+    - _PuddleWaveIntensity: 1
+    - _PuddleWaveTiling: 100
+    - _Puddles: 1
+    - _QueueControl: -1
+    - _QueueOffset: 0
+    - _Rain: 1
+    - _RainDistanceFade: 5
+    - _RainDropIntensity: 5
+    - _RainDropSpeed: 1
+    - _RainDropTiling: 10
+    - _RainFlowDistortionScale: 4
+    - _RainFlowDistortionStrenght: 0.1
+    - _RainFlowIntensity: 1
+    - _RainFlowSmoothnessBoost: 1
+    - _RainFlowStrength: 0
+    - _RainFlowTiling: 1
+    - _ReceiveShadows: 1
+    - _SSSDistortion: 0.9
+    - _SSSIntensity: 3
+    - _SSSScale: 0.5
+    - _Smoothness: 0
+    - _SmoothnessDetail: 1
+    - _SmoothnessTextureChannel: 0
+    - _SmoothnessWet: 0.5
+    - _Snow: 1
+    - _SnowDisplacementStrength: 0.01
+    - _SnowNormalScale: 1
+    - _SnowTiling: 1
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _SrcBlendAlpha: 1
+    - _Surface: 0
+    - _TessMax: 25
+    - _TessMin: 10
+    - _Tessellation: 0
+    - _TessellationFactor: 24
+    - _UVSec: 0
+    - _WorkflowMode: 1
+    - _ZWrite: 1
+    m_Colors:
+    - _BaseColor: {r: 0.94824237, g: 0.94824237, b: 0.94824237, a: 1}
+    - _Color: {r: 0.94824237, g: 0.94824237, b: 0.94824237, a: 1}
+    - _DetailTilingOffset: {r: 1, g: 1, b: 0, a: 0}
+    - _DetailTint: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _GlobalNormalTiling: {r: 1, g: 1, b: 0, a: 0}
+    - _PuddleColor: {r: 0.6037736, g: 0.6037736, b: 0.6037736, a: 0.6666667}
+    - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+    - _TilingOffset: {r: 1, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &459544686469150530
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7
