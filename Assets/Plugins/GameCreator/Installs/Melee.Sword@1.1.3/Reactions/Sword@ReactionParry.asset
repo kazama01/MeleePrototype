@@ -1,0 +1,240 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aef183b872bc4fd6b31ce8b5d8c35f11, type: 3}
+  m_Name: Sword@ReactionParry
+  m_EditorClassIdentifier: 
+  m_TransitionIn: 0.08
+  m_TransitionOut: 0.1
+  m_UseRootMotion: 1
+  m_Speed:
+    m_Property:
+      rid: 3592961068740903436
+  m_ReactionList:
+    m_List:
+    - rid: 3592961068740903437
+  m_OnEnter:
+    m_Instructions:
+      m_Instructions:
+      - rid: 8720288987125907631
+      - rid: 9075426173562650997
+      - rid: 8720288994284273929
+      - rid: 8720288987125908234
+      - rid: 9075426187066213299
+      - rid: 9075426187066213301
+      - rid: 9075426187066213303
+  m_OnExit:
+    m_Instructions:
+      m_Instructions: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 3592961068740903436
+      type: {class: GetDecimalConstantOne, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data: 
+    - rid: 3592961068740903437
+      type: {class: ReactionItem, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_MinPower:
+          m_IsEnabled: 0
+          m_Value: 1
+        m_Direction: 0
+        m_Conditions:
+          m_Conditions:
+            m_Conditions: []
+        m_AvatarMask: {fileID: 0}
+        m_CancelTime:
+          m_IsEnabled: 1
+          m_Value: 0.5
+        m_Rotation: 2
+        m_Gravity: 1
+        m_Animations:
+          m_Animations:
+          - {fileID: 7400002, guid: 8754210b3da299149a2dee52a0c8f763, type: 3}
+    - rid: 8720288987125907631
+      type: {class: InstructionLogicCheckConditions, ns: GameCreator.Runtime.VisualScripting,
+        asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Conditions:
+          m_Conditions:
+          - rid: 8720288987125907632
+    - rid: 8720288987125907632
+      type: {class: ConditionCompareAttribute, ns: GameCreator.Runtime.Stats, asm: GameCreator.Runtime.Stats}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Sign: 1
+        m_Traits:
+          m_Property:
+            rid: 8720288987125907636
+        m_Attribute:
+          m_Property:
+            rid: 8720288987125907634
+        m_Value: 0
+        m_CompareTo:
+          m_Comparison: 0
+          m_CompareTo:
+            m_Property:
+              rid: 8720288987125907635
+    - rid: 8720288987125907634
+      type: {class: GetAttributeInstance, ns: GameCreator.Runtime.Stats, asm: GameCreator.Runtime.Stats}
+      data:
+        m_Attribute: {fileID: 11400000, guid: 4cf7ae5caa4804d0ea2548dceac15ffb, type: 2}
+    - rid: 8720288987125907635
+      type: {class: GetDecimalDecimal, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data:
+        m_Value: 0
+    - rid: 8720288987125907636
+      type: {class: GetGameObjectTarget, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data: 
+    - rid: 8720288987125908234
+      type: {class: InstructionCommonTimeScale, ns: GameCreator.Runtime.VisualScripting,
+        asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_TimeScale:
+          m_Property:
+            rid: 8720288987125908235
+        m_TransitionDuration: 0.25
+        m_Layer: 0
+    - rid: 8720288987125908235
+      type: {class: GetDecimalDecimal, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data:
+        m_Value: 0.15
+    - rid: 8720288994284273929
+      type: {class: InstructionMatsModifier, ns: GameCreator.Runtime.VisualScripting,
+        asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Renderer:
+          m_Property:
+            rid: 8720288994284273933
+        material: {fileID: 2100000, guid: f2fe3c7a87e9da444b114ea24b3eb84a, type: 2}
+        m_Property:
+          m_Property:
+            rid: 8720288994284273931
+        m_Decimal:
+          m_Operation: 0
+          m_Value:
+            m_Property:
+              rid: 8720288994284273932
+        m_Transition:
+          m_Duration: 0.2
+          m_Easing: 3
+          m_Time: 0
+          m_WaitToComplete: 1
+    - rid: 8720288994284273931
+      type: {class: GetStringString, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data:
+        m_Value: _progress
+    - rid: 8720288994284273932
+      type: {class: GetDecimalDecimal, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data:
+        m_Value: 1
+    - rid: 8720288994284273933
+      type: {class: GetGameObjectSelf, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data: 
+    - rid: 9075426173562650997
+      type: {class: InstructionBooleanSetBool, ns: GameCreator.Runtime.VisualScripting,
+        asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Set:
+          m_Property:
+            rid: 9075426173562651000
+        m_From:
+          m_Property:
+            rid: 9075426173562650999
+    - rid: 9075426173562650999
+      type: {class: GetBoolValue, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data:
+        m_Value: 0
+    - rid: 9075426173562651000
+      type: {class: SetBoolGlobalName, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
+      data:
+        m_Variable:
+          m_TypeID:
+            m_String: boolean
+          m_Variable: {fileID: 11400000, guid: ceaf9ee548a43474eb0a676252750e6b, type: 2}
+          m_Name:
+            m_String: isActive
+            m_ID: -1971915048
+    - rid: 9075426187066213299
+      type: {class: InstructionCommonTimeWait, ns: GameCreator.Runtime.VisualScripting,
+        asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Seconds:
+          m_Property:
+            rid: 9075426187066213300
+        m_Mode:
+          m_UpdateTime: 0
+    - rid: 9075426187066213300
+      type: {class: GetDecimalDecimal, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data:
+        m_Value: 2
+    - rid: 9075426187066213301
+      type: {class: InstructionCommonTimeScale, ns: GameCreator.Runtime.VisualScripting,
+        asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_TimeScale:
+          m_Property:
+            rid: 9075426187066213302
+        m_TransitionDuration: 0.25
+        m_Layer: 0
+    - rid: 9075426187066213302
+      type: {class: GetDecimalDecimal, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data:
+        m_Value: 1
+    - rid: 9075426187066213303
+      type: {class: InstructionMatsModifier, ns: GameCreator.Runtime.VisualScripting,
+        asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Renderer:
+          m_Property:
+            rid: 9075426187066213304
+        material: {fileID: 2100000, guid: f2fe3c7a87e9da444b114ea24b3eb84a, type: 2}
+        m_Property:
+          m_Property:
+            rid: 9075426187066213305
+        m_Decimal:
+          m_Operation: 0
+          m_Value:
+            m_Property:
+              rid: 9075426187066213306
+        m_Transition:
+          m_Duration: 0.1
+          m_Easing: 3
+          m_Time: 0
+          m_WaitToComplete: 1
+    - rid: 9075426187066213304
+      type: {class: GetGameObjectSelf, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data: 
+    - rid: 9075426187066213305
+      type: {class: GetStringString, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data:
+        m_Value: _progress
+    - rid: 9075426187066213306
+      type: {class: GetDecimalDecimal, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data:
+        m_Value: 0
