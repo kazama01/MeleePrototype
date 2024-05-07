@@ -1,0 +1,729 @@
+fileFormatVersion: 2
+guid: cdac2e663c5f6564e9daa0ea09170327
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi
+    second: {fileID: 2100000, guid: 4f4c12ceb636b4d479089719533cb37b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_1
+    second: {fileID: 2100000, guid: 6bcbaa7df2cf6d846bbdfc80660335b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_10
+    second: {fileID: 2100000, guid: 72b95850d35e3af4da5bfb0794948799, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_100
+    second: {fileID: 2100000, guid: 0a63219869bf7e94699baecc89a99db3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_101
+    second: {fileID: 2100000, guid: 3c65591e3aec058419859f4c83c02b48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_102
+    second: {fileID: 2100000, guid: 08982c40b4a45a945afe3ba527e7399f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_103
+    second: {fileID: 2100000, guid: d7d82c0c800637a409f6b597b7646943, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_104
+    second: {fileID: 2100000, guid: f809d7e8d31383a40a32d9fd6fdb6578, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_105
+    second: {fileID: 2100000, guid: 4cc1637bedc5fd7429b88430664284e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_106
+    second: {fileID: 2100000, guid: 8ede1587fc2dcb14da336cadc985468a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_107
+    second: {fileID: 2100000, guid: e87e55055ff03e147b6166534784c04e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_108
+    second: {fileID: 2100000, guid: 4ed0eca72c6099a408fab30d3aae3239, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_109
+    second: {fileID: 2100000, guid: 54dc3d6132171ed4c81dcb04fa5c44de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_11
+    second: {fileID: 2100000, guid: 8f640ead3035c65438ae4dcb6bf5e4f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_110
+    second: {fileID: 2100000, guid: d083f48ca1ca00449ab20b91780df5d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_111
+    second: {fileID: 2100000, guid: 8b49a0a30bf3a214785dcfcb163f10ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_112
+    second: {fileID: 2100000, guid: 603dfde32e9336e4f815f695a89cb305, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_113
+    second: {fileID: 2100000, guid: a36f3e5ea57de114fa23f126e77af8d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_114
+    second: {fileID: 2100000, guid: 344479531fb58d04fabf63e8eac0040c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_115
+    second: {fileID: 2100000, guid: 6f919998c3f246a439b1790aeb854243, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_116
+    second: {fileID: 2100000, guid: 619e4b03f7dc0a54b8db95ad3d5a4d0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_117
+    second: {fileID: 2100000, guid: 604ccf1466eb7b94e8293094766116f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_118
+    second: {fileID: 2100000, guid: fd0f75b35e3b6ed46b439350882df37a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_119
+    second: {fileID: 2100000, guid: eb3cdcddff329814aaf1b682f29d5c02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_12
+    second: {fileID: 2100000, guid: da85e0a0eafb9bb43b790fcf2e2c0e92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_120
+    second: {fileID: 2100000, guid: 1a9f71592bf53e6458f0609bf5824040, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_121
+    second: {fileID: 2100000, guid: 982041d00f8324a40ac3b157429774c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_122
+    second: {fileID: 2100000, guid: f82b755365247e04bb65bfa9ec8c4c0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_123
+    second: {fileID: 2100000, guid: 8ed3ab7347512ea468722c7ce18f627d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_13
+    second: {fileID: 2100000, guid: 6251bd9240a48c547941da44f4aa2ca4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_14
+    second: {fileID: 2100000, guid: 4a1b6d019e814194ab8abb346a576673, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_15
+    second: {fileID: 2100000, guid: 5b1a8c0d98a91c045abefc4a9f302a95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_16
+    second: {fileID: 2100000, guid: 1dd36e473fbe70b439b16cef3fcec211, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_17
+    second: {fileID: 2100000, guid: d39c1e82f41ad1149a1d2168e0a1a840, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_18
+    second: {fileID: 2100000, guid: 1c36210b84038794c91341a59c2afc31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_19
+    second: {fileID: 2100000, guid: b5046b68371982445828db5a46e37001, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_2
+    second: {fileID: 2100000, guid: 5de84e342e7541f47b11e52aca49b2dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_20
+    second: {fileID: 2100000, guid: 7d333c13f12a3ed4ba0311cf3e8726e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_21
+    second: {fileID: 2100000, guid: 8d7d07711083d534db619ec18bf68506, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_22
+    second: {fileID: 2100000, guid: a6638f14e66119240af093b1cf5847b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_23
+    second: {fileID: 2100000, guid: 48450fc7679aa044d91af1999fa96006, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_24
+    second: {fileID: 2100000, guid: d7803b11ee5c9014b81842e59be8bf14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_25
+    second: {fileID: 2100000, guid: 74d91a0ca2875ab419d614b45b36dbc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_26
+    second: {fileID: 2100000, guid: 21a26b958136453449628be171db26c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_27
+    second: {fileID: 2100000, guid: b3f26311b56ac344bbd1d739e6d36627, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_28
+    second: {fileID: 2100000, guid: 21d7631fcb604d4469b3b1c43e95aaad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_29
+    second: {fileID: 2100000, guid: ed67cb319a1683d49b3b5ab0bd08decc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_3
+    second: {fileID: 2100000, guid: a3d7609f9dd8c3843b94e360445c8d61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_30
+    second: {fileID: 2100000, guid: ef6b92c50d3925641ab3b0c93cc662d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_31
+    second: {fileID: 2100000, guid: b155aa3a84892ce4885727f2e7f1ab12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_32
+    second: {fileID: 2100000, guid: 3fe1eb91a58906d408d4596239ef8910, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_33
+    second: {fileID: 2100000, guid: 9ba9e2b5642c0b447bf7b70cb228fd86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_34
+    second: {fileID: 2100000, guid: f26a7b83dfb998b44b24d346381d408e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_35
+    second: {fileID: 2100000, guid: 3be12c8837290354daf9452b464d26eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_36
+    second: {fileID: 2100000, guid: 859d462ebe8253d40a9c3dc81a5ab2db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_37
+    second: {fileID: 2100000, guid: 49638ff684eefac428bf1ba033bf4daa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_38
+    second: {fileID: 2100000, guid: a380869d6ca69784fb541ed6a53df8a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_39
+    second: {fileID: 2100000, guid: 6d8faa1d57e0bcf4f81b73204c3b0e7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_4
+    second: {fileID: 2100000, guid: 31d691b90a923ae4cb6bed617afe3782, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_40
+    second: {fileID: 2100000, guid: 1ff973a0615c78a4aa46be333021c13d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_41
+    second: {fileID: 2100000, guid: 4493b7c4b51acdd4891dc698c8399537, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_42
+    second: {fileID: 2100000, guid: 6c14dce1c14add64f8cfefad0895a15f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_43
+    second: {fileID: 2100000, guid: 87f41abad2250ba41b56978e9a389bad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_44
+    second: {fileID: 2100000, guid: 88f185453cfd33843ab9bfe9139f8aba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_45
+    second: {fileID: 2100000, guid: e2d13a8304fda0349845014ed1698e63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_46
+    second: {fileID: 2100000, guid: 8191d4085044b2f41bfea82951203899, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_47
+    second: {fileID: 2100000, guid: ab159f7defa3e3d449ac9d4fc73a4489, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_48
+    second: {fileID: 2100000, guid: 421737c259daf37469e810b36a988ef0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_49
+    second: {fileID: 2100000, guid: 2b2daf6a41d7139479f550ce5638f7b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_5
+    second: {fileID: 2100000, guid: d14d72df255e92b45aabd82488f5c835, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_50
+    second: {fileID: 2100000, guid: 6c298dca34589214897dc1fb6193f994, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_51
+    second: {fileID: 2100000, guid: 55596d42e761a494c99765faede89393, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_52
+    second: {fileID: 2100000, guid: 9f3ded897b2811641bc631468e722312, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_53
+    second: {fileID: 2100000, guid: 685ba702f1d902e43b03e2bf6707b74c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_54
+    second: {fileID: 2100000, guid: e22d7ea3a8ceb3a40831cb7426c8b2ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_55
+    second: {fileID: 2100000, guid: 909d979af54a6104e8c117b73a5377d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_56
+    second: {fileID: 2100000, guid: 04cf0f61820ce854fbfb6751ad5bba60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_57
+    second: {fileID: 2100000, guid: 8027d129e2050914fa4a61cb46914215, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_58
+    second: {fileID: 2100000, guid: 80186229d96388e4a968b7ce285483b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_59
+    second: {fileID: 2100000, guid: 1abe0c0e332a2e145887cbac77932b6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_6
+    second: {fileID: 2100000, guid: 78aa083ae08bed14f9bae9cc0d67c122, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_60
+    second: {fileID: 2100000, guid: d716a7835df2cc244a02f8d997e3e24c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_61
+    second: {fileID: 2100000, guid: 98c506f2b1ea540459738d4d577302cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_62
+    second: {fileID: 2100000, guid: edfcad6cd53c10546ad27fcd27cb2e71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_63
+    second: {fileID: 2100000, guid: a32db75cbaa2d0a47be4d516a6f97a0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_64
+    second: {fileID: 2100000, guid: 4140b30ac8968b046a661c59c292bb12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_65
+    second: {fileID: 2100000, guid: 84491fb133f511d40bb6b76c0451a8e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_66
+    second: {fileID: 2100000, guid: 85a3d16ccc7cc4d478a1587ee274c1d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_67
+    second: {fileID: 2100000, guid: 1081c13f31bc613439d732c0dbfc7fe9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_68
+    second: {fileID: 2100000, guid: 7e81bab070fb0604a98b627c22c9f55c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_69
+    second: {fileID: 2100000, guid: d82d1bfe6c871f44cb33308ed7c89726, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_7
+    second: {fileID: 2100000, guid: 30c6725debb8cf94d94a9be4b01b6648, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_70
+    second: {fileID: 2100000, guid: 75e9265f671ef504790dbfc32604d0ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_71
+    second: {fileID: 2100000, guid: ba31ef293e600c249ad45b4eba7c5ca5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_72
+    second: {fileID: 2100000, guid: 5e3bbd3413ac34144bcbd968239d4b79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_73
+    second: {fileID: 2100000, guid: b23f31703b8ac5149a7013f451fd23b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_74
+    second: {fileID: 2100000, guid: 5fa5bb31f9dbd2845801a8051454c6ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_75
+    second: {fileID: 2100000, guid: 9c07fbb70f8116d45858f8c8ef7abdeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_76
+    second: {fileID: 2100000, guid: be3e19c45817f324dbd73747da3a3f80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_77
+    second: {fileID: 2100000, guid: 39a3d733feb522149be37096cb957177, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_78
+    second: {fileID: 2100000, guid: d559369e749ae9642bcad9ed8e36ab6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_79
+    second: {fileID: 2100000, guid: dfba96af306147841ad4ad1e9eb15943, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_8
+    second: {fileID: 2100000, guid: 41979ad11204220418fa028a3c885293, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_80
+    second: {fileID: 2100000, guid: 11a9f9a6ecda7374bb9efa675f4cc091, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_81
+    second: {fileID: 2100000, guid: a904475ff11aca1479e6d8653e702233, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_82
+    second: {fileID: 2100000, guid: 518fbdae0f3698e40a1427b314458f75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_83
+    second: {fileID: 2100000, guid: ea7b170dcaefcfd40abbb6471ce21705, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_84
+    second: {fileID: 2100000, guid: ff39d39dffd95024e923f426dd937f8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_85
+    second: {fileID: 2100000, guid: f1a3b32c77477f3438f935da697def0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_86
+    second: {fileID: 2100000, guid: b86bdc406b18d634cbb5465aa7f16153, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_87
+    second: {fileID: 2100000, guid: a03881323f640264d9fc15edaab0be0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_88
+    second: {fileID: 2100000, guid: 45c63ab52ebc34d469ef2789785517b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_89
+    second: {fileID: 2100000, guid: 9a10e235872c35048a64190f6697a205, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_9
+    second: {fileID: 2100000, guid: fce6c481eea42834a965ae2786edf747, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_90
+    second: {fileID: 2100000, guid: c2ed714f13d8558409cd456cd6f4f92a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_91
+    second: {fileID: 2100000, guid: ba7be07042e838d4b82078ca22584aa6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_92
+    second: {fileID: 2100000, guid: 9517ef814c501a44797d4fa18b8de1cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_93
+    second: {fileID: 2100000, guid: 72fead22871ead64988382e1b52695a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_94
+    second: {fileID: 2100000, guid: f1ce8e160abf8774b8d0db02e475161c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_95
+    second: {fileID: 2100000, guid: 46b80faf12df9814b8716fc1db7ad88f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_96
+    second: {fileID: 2100000, guid: 7e779dc42a99e3146863818dc03cdca5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_97
+    second: {fileID: 2100000, guid: 4e4ccdae0a7081a4bb68460b41f4a4fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_98
+    second: {fileID: 2100000, guid: a45bf32adabe7cd48aef0528e878c21e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palazzi_99
+    second: {fileID: 2100000, guid: 1852c0e28e9fddc429d5ee0494c34b5b, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
